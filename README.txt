@@ -40,7 +40,7 @@ The covariance matrix is saved in the `covariance` variable. While we do not pri
 
 ## Sample Output
 
-![Km and Vmax Plot](enzyme_kinetics_result.png)
+![Km and Vmax Plot](output/enzyme_kinetics_result.png)
 
 ## Requirements
 All required libraries are listed in `requirements.txt` and can be installed with:
